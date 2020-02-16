@@ -1,4 +1,4 @@
-#con backward
+#Red relu con backward
 import torch
 
 p = 64 #patrones
